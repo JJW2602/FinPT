@@ -40,6 +40,9 @@
 
 ### 설치 방법
 
+0. API_KEY
+   Need your own API_KEY
+
 1. Dependency:
    ```
    cd {project_folder}
@@ -53,9 +56,12 @@
 
 3. 브라우저에서 `http://localhost:3000` 접속
 
+## Demo
+Link: [https://drive.google.com/file/d/1Z2QbTJGT5T8GyBnp0jBY5ryCo8XCZ8IM/view?usp=sharing](https://drive.google.com/file/d/1Z2QbTJGT5T8GyBnp0jBY5ryCo8XCZ8IM/view?usp=sharing)
+
 ## 📞 연락처
 
-프로젝트 관리자 - [jjw2602@gmail.com]
+프로젝트 관리자 - [jjw2602@gmail.com](jjw2602@gmail.com)
 
 프로젝트 링크: [https://github.com/JJW2602/FinPT.git](https://github.com/JJW2602/FinPT.git)
 
